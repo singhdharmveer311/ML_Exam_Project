@@ -11,7 +11,7 @@
 Project directory includes following files:
 
 - **app.py**: A Flask API script used to serve the trained model for predictions. This script sets up an endpoint that takes input features and returns the predicted credit score.
-- **best_svm_model.joblib**: The trained Support Vector Machine (SVM) model saved in a joblib file. This model is used for making predictions on new data.
+- **dharmveer_69916_best_svm_model.joblib**: The trained Support Vector Machine (SVM) model saved in a joblib file. This model is used for making predictions on new data.
 - **requirements.txt**: A file listing all the dependencies and Python packages required to run the project. This includes Flask, scikit-learn, and any other libraries used in the project.
 
 #### Running API:
