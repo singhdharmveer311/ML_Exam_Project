@@ -4,6 +4,8 @@
 
 ### Student Number: 69916
 
+### Please find the output file in the repository
+
 #### Description:
 
 Project directory includes following files:
